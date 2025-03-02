@@ -35,16 +35,15 @@ SDL2 (included as a submodule)
 ## Installation
 Clone the repository:
 
-bash
-Copy
-git clone https://github.com/VisualsDev/visual-engine.git
-cd visual-engine
+```bash
+  git clone https://github.com/VisualsDev/visual-engine.git
+  cd visual-engine
+```
 Initialize and update submodules:
 
-bash
-Copy
+```bash
 git submodule update --init --recursive
-Build the engine:
+```
 
 ## Contributing
 We welcome contributions from the community! Whether it's bug fixes, feature requests, or documentation improvements, your help is appreciated. Please read our Contributing Guidelines before submitting a pull request.
