@@ -10,19 +10,19 @@ Intuitive API: Easy-to-use API for rapid development and prototyping.
 
 Modular Design: Extend and customize the engine to suit your needs.
 
-Built-In Tools:
+* Built-In Tools:
 
-Sprite and animation management.
+* Sprite and animation management.
 
-Physics engine integration.
+* Physics engine integration.
 
-Audio system for sound effects and music.
+* Audio system for sound effects and music.
 
-Input handling for keyboard, mouse, and touch controls.
+* Input handling for keyboard, mouse, joypad, and touch controls.
 
-Scene Management: Easily manage game scenes and transitions.
+* Scene Management: Easily manage game scenes and transitions.
 
-Open Source: Fully open-source under the MIT license. Contribute, modify, and share!
+* Open Source: Fully open-source under the MIT license. Contribute, modify, and share!
 
 ## Getting Started
 Prerequisites
